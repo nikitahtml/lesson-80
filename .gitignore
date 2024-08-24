@@ -55,6 +55,7 @@ pnpm-lock.yaml
 # MacOS specific files
 .DS_Store
 
+
 # IDE specific files
 .idea/
 .vscode/
